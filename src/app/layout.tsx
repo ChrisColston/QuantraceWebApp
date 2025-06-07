@@ -40,7 +40,7 @@ export default function RootLayout({
       data-accent={style.accent}
       data-border={style.border}
       data-solid={style.solid}
-      data-solid-style={style.solidStyle}
+      data-solid-style={style.solidstyle}
       data-surface={style.surface}
       data-transition={style.transition}
       data-scaling={style.scaling}
